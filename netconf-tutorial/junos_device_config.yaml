@@ -1,7 +1,0 @@
-device:
-  hostname: "172.20.20.3"
-  username: "admin"
-  password: "admin1"
-  port: 22  # Optional; defaults to 830 if not provided
-  # or junos, iosxr, etc. Based on ncclient device_params
-  type: "junos"

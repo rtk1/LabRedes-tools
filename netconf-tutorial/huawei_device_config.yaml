@@ -1,7 +1,0 @@
-device:
-  hostname: "172.20.20.5"
-  username: "admin"
-  password: "admin"
-  port: 830  # Optional; defaults to 830 if not provided
-  # or junos, iosxr, etc. Based on ncclient device_params
-  type: "huaweiyang"
