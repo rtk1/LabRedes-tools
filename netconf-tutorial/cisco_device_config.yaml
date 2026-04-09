@@ -1,0 +1,7 @@
+device:
+  hostname: "172.20.20.2"
+  username: "clab"
+  password: "clab@123"
+  port: 830  # Optional; defaults to 830 if not provided
+  # or junos, iosxr, etc. Based on ncclient device_params
+  type: "iosxr"
